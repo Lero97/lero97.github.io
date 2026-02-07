@@ -1,4 +1,4 @@
-# Luis-Rojas-PracticaDeRedes1 - DNS y hosting:
+# Practica 1 De Redes - DNS y hosting:
 
 ## Paso 1. Registro en afraid.org y elección del subdominio
 
