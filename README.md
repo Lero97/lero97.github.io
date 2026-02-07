@@ -11,7 +11,7 @@
 Advertencia: Para el registro en FreeDNS se envía un correo de activación que es
 posible que tarde minutos u horas.
 
-##Paso 2. Creación del repositorio y activación de GitHub Pages
+## Paso 2. Creación del repositorio y activación de GitHub Pages
 
   1. Accede a tu cuenta de GitHub.
   2. Crea un nuevo repositorio que se utilizará para alojar el sitio web.
@@ -23,7 +23,7 @@ posible que tarde minutos u horas.
 Advertencia: Los cambios en GitHub Pages pueden tardar unos minutos en reflejarse. 
 Tenlo en cuenta antes de asumir que existe un error de configuración.
 
-##Paso 3. Creación del sitio web mínimo
+## Paso 3. Creación del sitio web mínimo
 
   1. Crea un archivo index.html en el repositorio configurado.
   2. El contenido del sitio debe incluir, como mínimo:
@@ -38,7 +38,7 @@ Tenlo en cuenta antes de asumir que existe un error de configuración.
 Nota: No es necesario incluir hojas de estilo ni contenido avanzado, aunque está
 permitido. El objetivo es comprobar el correcto funcionamiento del acceso web.
 
-##Paso 4. Configuración DNS del subdominio
+## Paso 4. Configuración DNS del subdominio
 
   1. Accede al panel de gestión de afraid.org.
   2. Configura los registros DNS necesarios para que el subdominio apunte al
@@ -49,7 +49,7 @@ permitido. El objetivo es comprobar el correcto funcionamiento del acceso web.
 Advertencia: La propagación DNS no es inmediata. En algunos casos puede
 tardar varios minutos u horas.
 
-##Paso 5. Comprobación del acceso al sitio web
+## Paso 5. Comprobación del acceso al sitio web
 
   1. Accede al sitio web utilizando el subdominio registrado.
   2. Verifica que el contenido se muestra correctamente y que el navegador
@@ -57,7 +57,7 @@ tardar varios minutos u horas.
   3. Realiza la comprobación desde un navegador o dispositivo distinto si es
   posible.
 
-##Paso 6. Verificación del acceso mediante HTTPS
+## Paso 6. Verificación del acceso mediante HTTPS
 
   1. Comprueba que el sitio web es accesible mediante HTTPS.
   2. Verifica que el navegador no muestra advertencias de seguridad.
